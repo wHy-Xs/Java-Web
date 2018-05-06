@@ -1,1 +1,4 @@
 # Java-Web
+这个仓库主要是记录学习javaWeb中的一些小demo,方便复查学习。
+第一个myfirstServlet是一个servlet+jsp的小项目
+第二个springmvc-mybatis是搭建的最简单的springmvc-mybatis的小demo
